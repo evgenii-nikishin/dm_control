@@ -199,7 +199,6 @@ notebook: [Open In Google Colab](https://colab.research.google.com/github/deepmi
         'dm-env',
         'dm-tree != 0.1.2',
         'glfw',
-        'labmaze',
         'lxml',
         'mujoco >= 2.3.1.post1',
         'numpy >= 1.9.0',
